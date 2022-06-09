@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Challenge | expenses chart component repo](https://github.com/NohaaAa/Frontend-Mentor-Challenge-expenses-chart-component-main)
-- Live Site URL: [expenses chart component live link](https://your-live-site-url.com](https://frontend-mentor-challenge-expenses-chart-component-main.vercel.app/)
+- Live Site URL: [expenses chart component live link](https://frontend-mentor-challenge-expenses-chart-component-main.vercel.app/)
 
 ## My process
 
