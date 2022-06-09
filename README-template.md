@@ -10,11 +10,6 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -37,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Challenge | expenses chart component repo](https://github.com/NohaaAa/Frontend-Mentor-Challenge-expenses-chart-component-main)
-- Live Site URL: [expenses chart component live link]([https://your-live-site-url.com](https://frontend-mentor-challenge-expenses-chart-component-main.vercel.app/))
+- Live Site URL: [expenses chart component live link](https://your-live-site-url.com](https://frontend-mentor-challenge-expenses-chart-component-main.vercel.app/)
 
 ## My process
 
